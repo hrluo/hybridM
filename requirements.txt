@@ -1,0 +1,8 @@
+numpy
+GPy
+scikit-learn
+scikit-optimize
+scipy
+multiprocessing
+dill
+termcolor

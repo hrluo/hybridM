@@ -1,0 +1,1 @@
+{"destination": "", "running_str": "bigbenchmark_KTDH207APFPQSQSKNW54D3GP", "num_of_repeats": 20, "maximize_objective": true, "experiment_name": "Friedman8C", "function_file_py": "test_Friedman8C", "working_dir": "bigbenchmark_KTDH207APFPQSQSKNW54D3GP/", "date_time_str": "2022-09-09 18:54:01", "evaluation_budget": 100, "method_list": ["hybridM"]}

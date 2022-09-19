@@ -1,0 +1,1 @@
+{"destination": "", "running_str": "bigbenchmark_DQFV83AHO2NXV2SI68ZBVM1A", "num_of_repeats": 10, "maximize_objective": true, "experiment_name": "NN_boston_ord", "function_file_py": "test_NNregression_ord", "working_dir": "bigbenchmark_DQFV83AHO2NXV2SI68ZBVM1A/", "date_time_str": "2022-09-09 18:56:34", "evaluation_budget": 100, "method_list": ["hybridM"]}
